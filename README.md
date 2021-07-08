@@ -3,6 +3,7 @@
 Cara Aktivasi Windows 11 > https://youtu.be/VOgTNeS7qfQ
 
 
+Cara Menjalankan : Klik kanan nama file Activator.cmd, lalu pilih menu Run as administrator
 
 
 Keterangan:
@@ -14,7 +15,7 @@ slmgr.vbs /ipk "7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH"
 
 Menjadi :
 
-slmgr.vbs /ipk "activation key"
+slmgr.vbs /ipk "activation key sesuai windows"
 
 =====================================
 
